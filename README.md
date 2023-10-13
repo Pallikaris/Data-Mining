@@ -1,5 +1,5 @@
 # Data-Mining
-Natural Language Data 
+Natural Language Data <br />
 High dimensionality 'book description' problem.<br />
 Clustering in high dimensions with the use of TF-IDF variations
 
