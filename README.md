@@ -29,7 +29,7 @@ Goodreads is a social platform with  a data base which contains numerous book da
 
 [https://www.goodreads.com/](https://)  .
 
-During implementation we learned :   
+During implementation we have learned :   
 
 **1.]  How to preprocess text that is going to be used in Natural Language Processing.**
 
