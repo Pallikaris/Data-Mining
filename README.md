@@ -4,7 +4,7 @@ High dimensionality 'book description' problem.<br />
 Clustering in high dimensions with the use of TF-IDF variations.
 
 
-
+<br /><br /><br />
 In case you want to avoid running locally , a short image demonstration can be found [here ](https://drive.google.com/drive/folders/1AcTWyYwGN68RrGb0UVv97r8ns4OxfhSP?usp=sharing).
 
 
